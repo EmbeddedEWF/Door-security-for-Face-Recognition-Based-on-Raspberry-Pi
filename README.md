@@ -1,2 +1,3 @@
-# Face-recognition
+本项目是基于树莓派的人脸识别智能门禁系统，用的Python，将门的开关换成LED的亮灭，用户可以自行更换舵机或者其余产品来实现自己想要的功能。项目代码文件在project中，本层目录中的这些文件均为项目过程文件，其中operate.md为本项目的实操过程，图片均在assets文件夹中。本层目录下还包含了最后项目的实验结果视频可供参考。
+
 This project is based on the face recognition intelligent Door security of Raspberry Pie, which uses Python to change the door switch to LED on/off, and users can change the steering gear or other products to achieve their desired functions. The project code files are in the project, and these files in the directory at this level are all project process files. Among them, operate.md is the actual operation process of the project, and the images are all in the assets folder. This directory also includes the experimental results video of the final project for reference.

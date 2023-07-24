@@ -1,0 +1,6 @@
+AppID		:36629406
+API Key		:AGQltv7KRBzp8PansjdbC80L 
+Secret Key	:8NbWh18Z4hHQLfCjGSjV71mGGBlAku6a 
+
+Group ID	:01
+User ID		:wuyanzu
