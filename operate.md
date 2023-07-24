@@ -4,45 +4,45 @@
 
 打开百度智能云https://cloud.baidu.com/来进行录入人脸信息
 
-![1](../../Raspberry Pi/人脸识别智能门锁项目/assets/1.png)
+1
 
 选择人脸识别，进去之后选择立即使用
 
 点击去创建
 
-![2](../../Raspberry Pi/assets/2.png)
+2
 
-![3](../../Raspberry Pi/assets/3.png)
+3
 
-![image-20230724171942057](C:\Users\王菲\Desktop\Linux\Raspberry Pi\人脸识别智能门锁项目\assets\4.png)
+4
 
 点击立即创建，下载SDK，在树莓派上所以选择python
 
-![image-20230724172106881](C:\Users\王菲\Desktop\Linux\Raspberry Pi\人脸识别智能门锁项目\assets\5.png)
+5
 
 再在上一级菜单中选择可视化人脸库
 
-![image-20230724172255281](C:\Users\王菲\Desktop\Linux\Raspberry Pi\assets\image-20230724172255281.png)
+5
 
 点击进入刚刚创建的应用，马上创建用户组，填写好信息
 
-![image-20230724172432603](C:\Users\王菲\Desktop\Linux\Raspberry Pi\人脸识别智能门锁项目\assets\6.png)
+6
 
 确认后选择用户组
 
-![image-20230724172511132](C:\Users\王菲\Desktop\Linux\Raspberry Pi\人脸识别智能门锁项目\assets\7.png)
+7
 
 点击01，再点击马上创建
 
 用户ID为wuyanzu，选在图片，点击确认
 
-![image-20230724172812432](C:\Users\王菲\Desktop\Linux\Raspberry Pi\人脸识别智能门锁项目\assets\8.png)
+8
 
 在应用列表中将信息记录到记事本中
 
-![image-20230724172931106](../../Raspberry Pi/人脸识别智能门锁项目/assets/9.png)
+9
 
-![image-20230724173149983](C:\Users\王菲\Desktop\Linux\Raspberry Pi\人脸识别智能门锁项目\assets\10.png)
+10
 
 这里的这些数据就相当于将这个图片构造了一个key的信息
 
